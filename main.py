@@ -1,6 +1,6 @@
 import streamlit as st
 from Agglomerative import *
-from kmeanapp import *
+from KMeans import *
 
 def main():
     # Define the styled option menu
